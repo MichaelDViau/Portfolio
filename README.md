@@ -3,7 +3,11 @@ This is my Personal/Professional Portfolio
 
 It have it's own secure domain at: https://michaeldviau.com
 
+--------------------------
+
 ![image](https://user-images.githubusercontent.com/86207868/131232642-30bb889b-0e6b-4746-a3dc-742b9677155b.png)
+
+--------------------------
 
 Hi, My name is Michael De Lagrave Viau but my friends and family call me MIKA.
 
@@ -17,8 +21,11 @@ This is why in 2021 I sign up for a Software Engineering Bootcamp. I love techno
 
 This my first professional portfolio to show the work I am doing with the boot camps and every week I will be updating the page with the homework and side projects I will be working on in order to gain experience and show the world my work!
 
-**********************--------------------------**********************--------------------------**********************--------------------------**********************
+--------------------------
 
+On this website we used several technology such as Bootrap, css, JV, Jquery and HTML 5 to create this beautiful website
+
+--------------------------
 You guys can reach me at
 
 Email: michael.delagrave.viau@gmail.com
